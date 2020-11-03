@@ -1,6 +1,6 @@
 ### Olá, bem vindo a minha página👋
 
-Confira também meu <a href="www.linkedin.com/in/gustavo-hm-figueiredo" _target-blank>linkedin
+Confira também meu <a href="www.linkedin.com/in/gustavo-hm-figueiredo" _target-blank></a>linkedin
 
 Sou um Desenvolvedor full stack Junior estudante da Trybe, com preferência por BackEnd.
 
