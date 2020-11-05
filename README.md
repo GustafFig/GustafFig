@@ -19,7 +19,7 @@ Também confira meu [linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu 
 
 ### Habilidades que eu tenho
 |     |     |
-|```  |```  |
+|---  |---  |
 | ![JavaScript](https://img.shields.io/badge/-JS-yellow)  	|   	![Python](https://img.shields.io/badge/-Python-blue)|
 |	![Express](https://img.shields.io/badge/-Express-orange)  |	![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)|
 | ![Mysql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white)  	| ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white) |
