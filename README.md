@@ -1,8 +1,22 @@
-### Olá, bem vindo a minha página👋
+### Olá, bem vindo ao meu GitHub👋
 
-Confira também meu <a href="www.linkedin.com/in/gustavo-hm-figueiredo" _target-blank>linkedin</a>
+Sou um Desenvolvedor Full Stack Junior estudante da [Trybe](https://www.betrybe.com/).
 
-Sou um Desenvolvedor full stack Junior estudante da Trybe, com preferência por BackEnd.
+Aqui você vai conferir meus projetos da Trybe, e também verá projetos pessoais.
+Espero que goste.
+Também confira meu [linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu [portifólio](https://gustaffig.github.io/)
+
+### Maiores orgulhos
+<ul>
+  <li>
+    Abaixo você vai encontrar projetos de Front End, especialmente o [App de Receitas](https://github.com/GustafFig/App-de-Receitas).
+  </li>
+  <li>
+    E de BackEnd em NodeJs [Trybeer](https://github.com/GustafFig/Trybeer)
+  </li>
+</ul>
+
+### Contato
 
 ### Habilidades que eu tenho
 <ul>
