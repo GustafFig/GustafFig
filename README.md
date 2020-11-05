@@ -1,11 +1,9 @@
 ### Olá, bem vindo ao meu GitHub 👋
 
-Sou um Desenvolvedor Full Stack Junior estudante da [Trybe](https://www.betrybe.com/).
-
+Sou um **Físico** e **Desenvolvedor** Full Stack Junior estudante da [Trybe](https://www.betrybe.com/).
 Aqui você vai conferir meus projetos da Trybe, e também verá projetos pessoais.
 Espero que goste! :).
-
-Também confira meu [Linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu [Portifólio](https://gustaffig.github.io/)
+Também confira meu [Linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu [Portifólio](https://gustaffig-portfolio.herokuapp.com/)
 
 ### Maiores orgulhos
 - Usando React com Hooks e o ContentAPI, apresento o [App de Receitas](https://github.com/GustafFig/App-de-Receitas)
