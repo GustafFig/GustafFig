@@ -5,7 +5,7 @@ Sou um Desenvolvedor Full Stack Junior estudante da [Trybe](https://www.betrybe.
 Aqui você vai conferir meus projetos da Trybe, e também verá projetos pessoais.
 Espero que goste! :).
 
-Também confira meu [linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu [portifólio](https://gustaffig.github.io/)
+Também confira meu [Linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu [Portifólio](https://gustaffig.github.io/)
 
 ### Maiores orgulhos
 - Usando React com Hooks e o ContentAPI, apresento o [App de Receitas](https://github.com/GustafFig/App-de-Receitas)
@@ -19,7 +19,7 @@ Também confira meu [linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu 
 
 ### Habilidades que eu tenho
 | Linguagens | FrontEnd | BackEnd | Banco de Dados | Outras  |
-|---         |---       |---      |---             |         |
+|---         |---       |---      |---             |---      |
 | ![JavaScript](https://img.shields.io/badge/-JS-yellow) | ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-orange) | ![Mysql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | ![Python](https://img.shields.io/badge/-Python-blue) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) | ![Socket.io](https://img.shields.io/badge/-Socket.io-blue) |
 | ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white) |
