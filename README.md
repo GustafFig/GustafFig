@@ -18,12 +18,13 @@ Também confira meu [linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu 
 **Também pode me mandar no [Linkedin](www.linkedin.com/in/gustavo-hm-figueiredo)**
 
 ### Habilidades que eu tenho
-|     |     |
-|---  |---  |
-| ![JavaScript](https://img.shields.io/badge/-JS-yellow)  	|   	![Python](https://img.shields.io/badge/-Python-blue)|
-|	![Express](https://img.shields.io/badge/-Express-orange)  |	![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)|
-| ![Mysql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white)  	| ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white) |
-| ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)  	| ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |
+| Linguagens | FrontEnd | BackEnd | Banco de Dados | Outras
+|---  |---  |---  |
+| ![JavaScript](https://img.shields.io/badge/-JS-yellow) | ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-orange) | ![Mysql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| ![Python](https://img.shields.io/badge/-Python-blue) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white) |
+|	![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+**Estou disposto a aprender mais!!**
 
 ![Gustavo's Figueiredo github stats](https://github-readme-stats.vercel.app/api?username=gustaffig&hide=contribs,prs&count_private=true)
-
