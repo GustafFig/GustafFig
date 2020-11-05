@@ -13,7 +13,7 @@ Também confira meu [Linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu 
 <a target="_blank" href="mailto:gustavohmfigueiredo@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-**Também pode me mandar no [Linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) **
+**Também pode me mandar no** [**Linkedin**](www.linkedin.com/in/gustavo-hm-figueiredo)
 
 ### Habilidades que eu tenho
 | Linguagens | FrontEnd | BackEnd | Banco de Dados | Outras  |
