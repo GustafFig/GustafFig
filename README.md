@@ -18,8 +18,8 @@ Também confira meu [linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu 
 **Também pode me mandar no [Linkedin](www.linkedin.com/in/gustavo-hm-figueiredo)**
 
 ### Habilidades que eu tenho
-| Linguagens | FrontEnd | BackEnd | Banco de Dados | Outras
-|---  |---  |---  |
+| Linguagens | FrontEnd | BackEnd | Banco de Dados | Outras  |
+|---         |---       |---      |---             |         |
 | ![JavaScript](https://img.shields.io/badge/-JS-yellow) | ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-orange) | ![Mysql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | ![Python](https://img.shields.io/badge/-Python-blue) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |
 | ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white) |
