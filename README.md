@@ -7,14 +7,8 @@ Espero que goste.
 Também confira meu [linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu [portifólio](https://gustaffig.github.io/)
 
 ### Maiores orgulhos
-<ul>
-  <li>
-    Abaixo você vai encontrar projetos de Front End, especialmente o [App de Receitas](https://github.com/GustafFig/App-de-Receitas).
-  </li>
-  <li>
-    E de BackEnd em NodeJs [Trybeer](https://github.com/GustafFig/Trybeer)
-  </li>
-</ul>
+  - Usando React com Hooks e o ContentAPI, apresento o [App de Receitas](https://github.com/GustafFig/App-de-Receitas)
+  - Com Express MySql e React com Redux, aqui está o [Trybeer](https://github.com/GustafFig/Trybeer)
 
 ### Contato
 
