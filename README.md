@@ -3,7 +3,9 @@
 Sou um Desenvolvedor Full Stack Junior estudante da [Trybe](https://www.betrybe.com/).
 
 Aqui você vai conferir meus projetos da Trybe, e também verá projetos pessoais.
-Espero que goste.
+
+Espero que goste! :).
+
 Também confira meu [linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu [portifólio](https://gustaffig.github.io/)
 
 ### Maiores orgulhos
@@ -14,7 +16,7 @@ Também confira meu [linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu 
 <a target="_blank" href="mailto:gustavohmfigueiredo@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-**Também pode me mandar no Linkedin**
+**Também pode me mandar no [Linkedin](www.linkedin.com/in/gustavo-hm-figueiredo)**
 
 ### Habilidades que eu tenho
   - ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
