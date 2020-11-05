@@ -16,7 +16,7 @@ Sou um Desenvolvedor full stack Junior estudante da Trybe, com preferência por 
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   </li>
   <li>
-    <img alt="JavaScript" src="https://img.shields.io/static/v1?&message=JS&color=yellow" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/v1?&message=JS&color=yellow" />
   </li>
   <li>
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
