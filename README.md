@@ -7,7 +7,7 @@ Também confira meu [Linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu 
 
 ### Maiores orgulhos
 - Usando React com Hooks e o ContentAPI, apresento o [App de Receitas](https://github.com/GustafFig/App-de-Receitas)
-- Com Express, JsonWebToken e MySql e React com Redux, aqui está o [Trybeer](https://github.com/GustafFig/Trybeer)
+- Com Express, JsonWebToken e MySql e React com Redux, aqui está o [Trybeer](https://github.com/GustafFig/TrybeerV2/) em sua segunda versão
 
 ### Contato
 <a target="_blank" href="mailto:gustavohmfigueiredo@gmail.com">
