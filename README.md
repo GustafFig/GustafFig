@@ -1,7 +1,7 @@
 ### Olá, bem vindo ao meu GitHub 👋
 
-Sou um **Físico** e **Desenvolvedor** Full Stack Junior estudante da [Trybe](https://www.betrybe.com/).
-Aqui você vai conferir meus projetos da Trybe, e também verá projetos pessoais.
+Sou um **Desenvolvedor** Full Stack ex estudante da [Trybe](https://www.betrybe.com/).
+Aqui, em meu github, você poderá conferir alguns dos meus projetos da Trybe, e também verá projetos pessoais.
 Espero que goste! :).
 Também confira meu [Linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu [Portifólio](https://gustaffig-portfolio.herokuapp.com/)
 
@@ -13,8 +13,6 @@ Também confira meu [Linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu 
 <a target="_blank" href="mailto:gustavohmfigueiredo@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-Também pode me mandar no
-[Linkedin](www.linkedin.com/in/gustavo-hm-figueiredo)
 
 ### Habilidades que eu tenho
 | Linguagens | FrontEnd | BackEnd | Banco de Dados | Dados | Outras  |
