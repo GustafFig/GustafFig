@@ -13,12 +13,12 @@ Também confira meu [Linkedin](www.linkedin.com/in/gustavo-hm-figueiredo) e meu 
 <a target="_blank" href="mailto:gustavohmfigueiredo@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-**Também pode me mandar no** [**Linkedin**](www.linkedin.com/in/gustavo-hm-figueiredo)
+**Também pode me mandar no** **[Linkedin](www.linkedin.com/in/gustavo-hm-figueiredo)**
 
 ### Habilidades que eu tenho
 | Linguagens | FrontEnd | BackEnd | Banco de Dados | Dados | Outras  |
 |---         |---       |---      |---             |---    |---      |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) | ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-orange) | ![Mysql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white) |	![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) | ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-orange) | ![Mysql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white) | --- |	![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) | ![Socket.io](https://img.shields.io/badge/-Socket.io-yellow?style=flat-square&logo=Socket.io&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Estou disposto a aprender mais!!**
